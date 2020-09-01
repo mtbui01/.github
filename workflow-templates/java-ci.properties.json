@@ -1,0 +1,13 @@
+{
+    "name": "Test Workflow",
+    "description": "Test CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
